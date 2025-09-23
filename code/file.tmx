@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+    <header
+            creationtool="Matecat-Cattool"
+            creationtoolversion="v3.4.6"
+	    o-tmf="Matecat"
+            creationid="Matecat"
+            datatype="plaintext"
+            segtype="sentence"
+            adminlang="en-US"
+            srclang="en-US"/>
+    <body>
+    <tu tuid="4731007062" creationdate="20250923T121410Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007062</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre"></prop>
+        <prop type="x-context-post">Rapport management is a key concept in intercultural <g id="1">communication </g>and pragmatics, developed by Helen Spencer-Oatey (2008) to explain how people maintain and negotiate <g id="2">relationships </g>during <g id="3">interaction</g>. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Rapport management</seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Quản lý mối quan hệ </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007063" creationdate="20250923T121834Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007063</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Rapport management</prop>
+        <prop type="x-context-post">It refers to the strategies speakers use not only to exchange information but also to manage social expectations, <g id="4">identity </g>needs, and the quality of relationships. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Rapport management is a key concept in intercultural &lt;g id="1"&gt;communication &lt;/g&gt;and pragmatics, developed by Helen Spencer-Oatey (2008) to explain how people maintain and negotiate &lt;g id="2"&gt;relationships &lt;/g&gt;during &lt;g id="3"&gt;interaction&lt;/g&gt;. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Quản lý mối quan hệ là một khái niệm then chốt trong &lt;g id="1"&gt;giao tiếp liên văn hóa &lt;/g&gt;và ngữ dụng học, được Helen Spencer-Oatey (2008) phát triển để giải thích cách con người duy trì và thương lượng các &lt;g id="2"&gt;các mối quan hệ &lt;/g&gt;trong quá trình &lt;g id="3"&gt; tương tác. &lt;/g&gt; </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007064" creationdate="20250923T122232Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007064</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Rapport management is a key concept in intercultural <g id="1">communication </g>and pragmatics, developed by Helen Spencer-Oatey (2008) to explain how people maintain and negotiate <g id="2">relationships </g>during <g id="3">interaction</g>. </prop>
+        <prop type="x-context-post">According to Spencer-Oatey, rapport management consists of three main dimensions. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>It refers to the strategies speakers use not only to exchange information but also to manage social expectations, &lt;g id="4"&gt;identity &lt;/g&gt;needs, and the quality of relationships. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Nó đề cập đến các chiến lược mà các diễn giả sử dụng không chỉ để trao đổi thông tin mà còn để quản lý các kỳ vọng xã hội, nhu cầu nhận dạng &lt;g id="4"&gt;bản sắc &lt;/g&gt; và chất lượng của các mối quan hệ. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007065" creationdate="20250923T122026Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007065</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">It refers to the strategies speakers use not only to exchange information but also to manage social expectations, <g id="4">identity </g>needs, and the quality of relationships. </prop>
+        <prop type="x-context-post">The first is <g id="5">face</g>, which relates to a person’s self-image and desire to be respected. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>According to Spencer-Oatey, rapport management consists of three main dimensions. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Theo Spencer-Oatey, quản lý mối quan hệ bao gồm ba khía cạnh chính. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007066" creationdate="20250923T122946Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007066</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">According to Spencer-Oatey, rapport management consists of three main dimensions. </prop>
+        <prop type="x-context-post">People expect their positive qualities, competence, and social identity to be acknowledged, and threats to face often lead to tension or conflict. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>The first is &lt;g id="5"&gt;face&lt;/g&gt;, which relates to a person’s self-image and desire to be respected. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Khía cạnh thứ nhất là &lt;g id="5"&gt;thể diện&lt;/g&gt;, liên quan đến hình ảnh bản thân của một người và mong muốn được tôn trọng. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007067" creationdate="20250923T122950Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007067</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">The first is <g id="5">face</g>, which relates to a person’s self-image and desire to be respected. </prop>
+        <prop type="x-context-post">The second dimension is <g id="6">sociality rights and obligations</g>, which concern fairness, inclusion, and role expectations. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>People expect their positive qualities, competence, and social identity to be acknowledged, and threats to face often lead to tension or conflict. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Mọi người kỳ vọng những phẩm chất tích cực, năng lực và bản sắc xã hội của họ được công nhận; và khi điều đó bị đe dọa họ thường cảm thấy căng thẳng hoặc dẫn đến xung đột. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007068" creationdate="20250923T122952Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007068</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">People expect their positive qualities, competence, and social identity to be acknowledged, and threats to face often lead to tension or conflict. </prop>
+        <prop type="x-context-post">These include implicit or explicit roles in communication (such as who may speak and when), equity rights (the right to be treated fairly and with respect), and interactional conventions (the culturally shaped expectations of how meetings, conversations, or negotiations should be conducted). </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>The second dimension is &lt;g id="6"&gt;sociality rights and obligations&lt;/g&gt;, which concern fairness, inclusion, and role expectations. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Khía cạnh thứ hai là &lt;g id="6"&gt;quyền xã hội và nghĩa vụ&lt;/g&gt;xã hội, liên quan đến sự công bằng, sự hòa nhập và kỳ vọng về vai trò trong giao tiếp. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007069" creationdate="20250923T122942Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007069</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">The second dimension is <g id="6">sociality rights and obligations</g>, which concern fairness, inclusion, and role expectations. </prop>
+        <prop type="x-context-post">The third dimension is <g id="7">interactional goals</g>, which describe the relative importance speakers attach to rapport compared to the task at hand. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>These include implicit or explicit roles in communication (such as who may speak and when), equity rights (the right to be treated fairly and with respect), and interactional conventions (the culturally shaped expectations of how meetings, conversations, or negotiations should be conducted). </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Chúng bao gồm các vai trò ngầm định hoặc rõ ràng trong giao tiếp (chẳng hạn như ai có thể nói khi nào), quyền công bằng (quyền được đối xử công bằng và tôn trọng) và các quy ước tương tác (các kỳ vọng định hình văn hóa về cách tiến hành các cuộc họp, cuộc trò chuyện hoặc đàm phán). </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007070" creationdate="20250923T122957Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007070</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">These include implicit or explicit roles in communication (such as who may speak and when), equity rights (the right to be treated fairly and with respect), and interactional conventions (the culturally shaped expectations of how meetings, conversations, or negotiations should be conducted). </prop>
+        <prop type="x-context-post">Speakers may seek to maintain rapport by using politeness strategies, enhance rapport by showing goodwill and solidarity, neglect rapport by focusing only on efficiency, or even challenge <g id="8">rapport </g>through rude or confrontational behavior. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>The third dimension is &lt;g id="7"&gt;interactional goals&lt;/g&gt;, which describe the relative importance speakers attach to rapport compared to the task at hand. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Khía cạnh thứ ba là các &lt;g id="7"&gt;mục tiêu tương tác&lt;/g&gt;, chỉ mức độ người nói coi trọng việc duy trì sự gắn kết so với nhiệm vụ đang thực. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007071" creationdate="20250923T122959Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007071</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">The third dimension is <g id="7">interactional goals</g>, which describe the relative importance speakers attach to rapport compared to the task at hand. </prop>
+        <prop type="x-context-post">Together, these three dimensions demonstrate that communication is a social act: people do not simply exchange words or information, but they also manage relationships. </prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Speakers may seek to maintain rapport by using politeness strategies, enhance rapport by showing goodwill and solidarity, neglect rapport by focusing only on efficiency, or even challenge &lt;g id="8"&gt;rapport &lt;/g&gt;through rude or confrontational behavior. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Người nói có thể tìm cách duy trì mối quan hệ bằng cách sử dụng các chiến lược lịch sự, tăng cường mối quan hệ bằng cách thể hiện thiện chí và tình đoàn kết, bỏ qua mối quan hệ bằng cách chỉ tập trung vào hiệu quả, hoặc thậm chí thách thức &lt;g id="8"&gt;mối quan hệ &lt;/g&gt;thông qua hành vi thô lỗ hoặc đối đầu. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007072" creationdate="20250923T123641Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007072</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Speakers may seek to maintain rapport by using politeness strategies, enhance rapport by showing goodwill and solidarity, neglect rapport by focusing only on efficiency, or even challenge <g id="8">rapport </g>through rude or confrontational behavior. </prop>
+        <prop type="x-context-post">Understanding rapport management is therefore crucial for achieving effective, respectful, and cooperative interaction.</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Together, these three dimensions demonstrate that communication is a social act: people do not simply exchange words or information, but they also manage relationships. </seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Cùng với nhau, ba khía cạnh này chứng minh rằng giao tiếp là một hành động xã hội: mọi người không chỉ đơn giản là trao đổi từ ngữ hoặc thông tin, mà họ còn quản lý các mối quan hệ. &#10; </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4731007073" creationdate="20250923T123541Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">11627354</prop>
+        <prop type="x-MateCAT-id_segment">4731007073</prop>
+        <prop type="x-MateCAT-filename">MATECAT - Rapport management - source text.docx</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Together, these three dimensions demonstrate that communication is a social act: people do not simply exchange words or information, but they also manage relationships. </prop>
+        <prop type="x-context-post"></prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Understanding rapport management is therefore crucial for achieving effective, respectful, and cooperative interaction.</seg>
+        </tuv>
+        <tuv xml:lang="vi-VN">
+            <seg>Do đó, hiểu về quản lý mối quan hệ là rất quan trọng để đạt được sự tương tác hiệu quả, tôn trọng và hợp tác.</seg>
+        </tuv>
+    </tu>
+
+    </body>
+</tmx>
